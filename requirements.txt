@@ -1,0 +1,9 @@
+asgiref
+beautifulsoup4
+Django
+django-bootstrap4
+django-widget-tweaks
+soupsieve
+sqlparse
+typing_extensions
+tzdata
